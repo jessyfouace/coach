@@ -98,9 +98,33 @@ textarea {
    ========================================================================== */
 
 
+.textorange {
+  color: #fc561f;
+}
 
+.backgroundorange {
+  background: #fc561f;
+}
 
+.borderorange {
+  border-color: #fc561f;
+}
 
+.backgroundnoir {
+  background: #293540;
+}
+
+.backgroundbleu {
+  background: #7cbce2;
+}
+
+.textbleu {
+  color: #7cbce2;
+}
+
+.backgroundgris {
+  background: #e1ebf5;
+}
 
 
 
